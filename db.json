@@ -1,0 +1,133 @@
+{
+  "seller": [
+    {
+      "name": "sorya",
+      "email": "soryarathore@gmail.com",
+      "password": "123@abc",
+      "id": 1
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "password": "123@abc",
+      "id": 2
+    },
+    {
+      "name": "ravindra",
+      "email": "ravi@gmail.com",
+      "password": "123@abc",
+      "id": 3
+    },
+    {
+      "name": "soryarathore",
+      "password": "12345",
+      "email": "rathorehomi@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "piter",
+      "password": "12345",
+      "email": "rathorehomi@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "rinku",
+      "password": "12345",
+      "email": "rathorehomi@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "rani",
+      "password": "12345",
+      "email": "rathorehomi@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "raju",
+      "password": "12345",
+      "email": "rathorehomi@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "rakesh",
+      "password": "12345",
+      "email": "rathorehomi@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "ramu",
+      "password": "12345",
+      "email": "rathorehomi@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "rakesh",
+      "password": "12345",
+      "email": "rathorehomi@gmail.com",
+      "id": 11
+    }
+  ],
+  "products": [
+    {
+      "name": "design",
+      "price": "1000",
+      "category": "design product",
+      "color": "Mixer",
+      "description": "this is awesome design products ",
+      "image": "https://images.unsplash.com/photo-1627163439097-373d08b797d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
+      "id": 1
+    },
+    {
+      "name": "Design",
+      "price": "1100",
+      "category": "Design Products",
+      "color": "Mixer",
+      "description": "If you like then you can buy this",
+      "image": "https://images.unsplash.com/photo-1622737133809-d95047b9e673?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "id": 2
+    },
+    {
+      "name": "Design",
+      "price": "1200",
+      "category": "design product",
+      "color": "Mixer",
+      "description": "this is also good product if you like then you can buy this",
+      "image": "https://images.unsplash.com/photo-1627163439134-7a8c47e08208?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "id": 3
+    },
+    {
+      "name": "Design",
+      "price": "6000",
+      "category": "design product",
+      "color": "Mixer",
+      "description": "sorya rathore  is selling this i think this is also good product",
+      "image": "https://images.unsplash.com/photo-1617396900799-f4ec2b43c7ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "name": "sorya",
+      "email": "soryarathore@gmail.com",
+      "password": "123@abc",
+      "id": 2
+    },
+    {
+      "name": "jugnu",
+      "email": "surjeetkhalasi@gmail.com",
+      "password": "123@abc",
+      "id": 3
+    }
+  ],
+
+  "cart": [
+    
+  ],
+  "orders":[
+    
+  ]
+
+}
